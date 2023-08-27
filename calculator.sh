@@ -19,3 +19,6 @@ echo $d
 #division
 e=`expr $a / $b`
 echo $e
+
+#testing some changes for merge example:
+echo "hi"
