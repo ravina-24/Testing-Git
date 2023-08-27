@@ -22,3 +22,7 @@ echo $e
 
 #testing some changes for merge example:
 echo "hi"
+
+#multiplication
+f=`expr $a*$b`
+echo $f
