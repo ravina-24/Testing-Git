@@ -16,3 +16,6 @@ echo $c
 d=`expr $a - $b`
 echo $d
 
+#division
+e=`expr $a / $b`
+echo $e
